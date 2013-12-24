@@ -1,7 +1,14 @@
-THE FELLOWSHIP OF CODE
+Quiz de noël
 ======================
 
-OPEN SOURCE IN WEB AGENCY
+OPEN SOURCE
 -------------------------
 
-Carcouët BTS SIO SISR/SLAM, December 6th, 2013
+24 décembre 2013
+
+
+
+////////////////////////////
+
+Valentin PLISSONNEAU
+valentin.plissonneau@gmail.com
